@@ -1,4 +1,7 @@
-# notesappver3
+# Lekh : the notes app
+
+![playstore](https://github.com/HRIDYANSHU054/Lekh/assets/124202756/887db7a5-5a83-4d36-8adc-495a0ec1012a)
+
 
 A new Flutter project.
 
